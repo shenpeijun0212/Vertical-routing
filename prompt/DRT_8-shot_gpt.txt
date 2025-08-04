@@ -1,0 +1,42 @@
+You are a professional translation expert. Please strictly follow the two steps below to translate the English sentence I provide: Step 1: Extract Keywords. Extract the keywords and list them in the following format: 'English word' as 'Chinese translation'. Step 2: Translate the Sentence. Based on the keywords extracted in Step 1, translate the entire English sentence into Chinese. The translation must strictly follow the provided keyword translations. Do not use any synonyms or make any creative changes.
+English sentence:Passing by the tower with her husband on the path to the gate she could feel the vibrant air humming round them from the louvred belfry in the circle of sound, and it matched the highly-charged mental atmosphere in which she was living.
+Keywords:'tower' as '塔', 'husband' as '丈夫', 'gate' as '大门', 'vibrant' as '充满活力的', 'humming' as '嗡嗡作响', 'louvred' as '有百叶窗的', 'belfry' as '钟楼', 'circle' as '圆圈', 'sound' as '声音', 'highly-charged' as '高度紧张的', 'mental' as '精神的', and 'atmosphere' as '氛围'.
+####沿着通往大门的大道，与丈夫一起经过塔时，她能感受到充满活力的空气从有百叶窗的钟楼嗡嗡作响地围绕在他们周围的声音圆圈中，这与她所处的高度紧张的精神氛围相契合。
+<end>
+You are a professional translation expert. Please strictly follow the two steps below to translate the English sentence I provide: Step 1: Extract Keywords. Extract the keywords and list them in the following format: 'English word' as 'Chinese translation'. Step 2: Translate the Sentence. Based on the keywords extracted in Step 1, translate the entire English sentence into Chinese. The translation must strictly follow the provided keyword translations. Do not use any synonyms or make any creative changes.
+English sentence:Right glorious is her royal street Where streams allay the dust and heat.
+Keywords:'glorious' as '辉煌的', 'royal' as '皇家的', 'street' as '街道', 'streams' as '溪流', 'allay' as '缓解', 'dust' as '尘土', 'heat' as '炎热'.
+####辉煌的是她的皇家街道，溪流缓解了尘土和炎热。
+<end>
+You are a professional translation expert. Please strictly follow the two steps below to translate the English sentence I provide: Step 1: Extract Keywords. Extract the keywords and list them in the following format: 'English word' as 'Chinese translation'. Step 2: Translate the Sentence. Based on the keywords extracted in Step 1, translate the entire English sentence into Chinese. The translation must strictly follow the provided keyword translations. Do not use any synonyms or make any creative changes.
+English sentence: One felt a little natural reluctance to decline and fall like Silas Wegg on the golden dust-heap of British refuse; but if one must, one could at least expect a degree from Oxford and the respect of the Athenaeum Club.
+Keywords:'natural reluctance' as '自然的不情愿', 'decline and fall' as '衰落和堕落', 'golden dust-heap' as '金色的垃圾堆', 'British refuse' as '英国的废弃物', 'degree' as '学位', 'Oxford' as '牛津', 'respect' as '尊重', 'Athenaeum Club' as '雅典娜俱乐部'.
+####人们会有一些自然的不情愿去像西拉斯·韦格那样在英国的金色垃圾堆上衰落和堕落；但如果必须如此，至少可以期待从牛津获得一个学位，以及雅典娜俱乐部的尊重。
+<end>
+You are a professional translation expert. Please strictly follow the two steps below to translate the English sentence I provide: Step 1: Extract Keywords. Extract the keywords and list them in the following format: 'English word' as 'Chinese translation'. Step 2: Translate the Sentence. Based on the keywords extracted in Step 1, translate the entire English sentence into Chinese. The translation must strictly follow the provided keyword translations. Do not use any synonyms or make any creative changes.
+English sentence:I had never got the Angel of Music whom my poor father had promised to send me as soon as he was dead.
+Keywords:'Angel of Music' as '音乐天使', 'poor father' as '可怜的父亲', 'promised' as '承诺', 'send' as '送给', 'dead' as '去世'.
+####我从未得到过音乐天使，那是我的可怜的父亲承诺在他去世后送给我的。
+<end>
+You are a professional translation expert. Please strictly follow the two steps below to translate the English sentence I provide: Step 1: Extract Keywords. Extract the keywords and list them in the following format: 'English word' as 'Chinese translation'. Step 2: Translate the Sentence. Based on the keywords extracted in Step 1, translate the entire English sentence into Chinese. The translation must strictly follow the provided keyword translations. Do not use any synonyms or make any creative changes.
+English sentence:When she came within earshot of their pleading, desire in her bent a willing ear.
+Keywords:'earshot' as '听力范围', 'pleading' as '恳求', 'desire' as '渴望', 'bent' as '倾向', 'willing ear' as '愿意倾听'.
+####当她进入他们恳求的话语传入听力范围时，内心的渴望使她倾向于愿意倾听。
+<end>
+You are a professional translation expert. Please strictly follow the two steps below to translate the English sentence I provide: Step 1: Extract Keywords. Extract the keywords and list them in the following format: 'English word' as 'Chinese translation'. Step 2: Translate the Sentence. Based on the keywords extracted in Step 1, translate the entire English sentence into Chinese. The translation must strictly follow the provided keyword translations. Do not use any synonyms or make any creative changes.
+English sentence:Passion and poor whisky, I doubt not, have ere this laid him on the shelf.
+Keywords:'passion' as '激情', 'poor whisky' as '劣质威士忌', 'doubt not' as '毫不怀疑', 'laid him on the shelf' as '使他被搁置'.
+####我毫不怀疑，激情和劣质威士忌早已使他被搁置。
+<end>
+You are a professional translation expert. Please strictly follow the two steps below to translate the English sentence I provide: Step 1: Extract Keywords. Extract the keywords and list them in the following format: 'English word' as 'Chinese translation'. Step 2: Translate the Sentence. Based on the keywords extracted in Step 1, translate the entire English sentence into Chinese. The translation must strictly follow the provided keyword translations. Do not use any synonyms or make any creative changes.
+English sentence:what was once to me Mere matter of the fancy, now hath grown The vast necessity of heart and life.
+Keywords:'mere matter of the fancy' as '仅仅是幻想', 'grown' as '成长为', 'vast necessity' as '巨大必需品', 'heart and life' as '心灵和生活'.
+####曾经对我来说仅仅是幻想的东西，现在已经成长为心灵和生活的巨大必需品。
+<end>
+You are a professional translation expert. Please strictly follow the two steps below to translate the English sentence I provide: Step 1: Extract Keywords. Extract the keywords and list them in the following format: 'English word' as 'Chinese translation'. Step 2: Translate the Sentence. Based on the keywords extracted in Step 1, translate the entire English sentence into Chinese. The translation must strictly follow the provided keyword translations. Do not use any synonyms or make any creative changes.
+English sentence:In front of the house is a fountain,--a fountain to which I am bound by a charm like Melusina and her sisters.
+Keywords:'in front of' as '在...前面', 'house' as '房子', 'fountain' as '喷泉', 'bound' as '束缚', 'charm' as '魔力', 'Melusina and her sisters' as '梅露西娜和她的姐妹们'.
+####在房子前面有一个喷泉——一个像梅露西娜和她的姐妹们那样用魔力束缚着我的喷泉。
+<end>
+You are a professional translation expert. Please strictly follow the two steps below to translate the English sentence I provide: Step 1: Extract Keywords. Extract the keywords and list them in the following format: 'English word' as 'Chinese translation'. Step 2: Translate the Sentence. Based on the keywords extracted in Step 1, translate the entire English sentence into Chinese. The translation must strictly follow the provided keyword translations. Do not use any synonyms or make any creative changes.
+English sentence: 
