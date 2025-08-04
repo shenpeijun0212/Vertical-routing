@@ -2,7 +2,7 @@
 
 This repository contains the resources and code used for evaluating large language models across diverse tasks using templated prompting strategies. It is structured to support easy experimentation, evaluation, and extension.
 
-### `data/`
+### `data`
 
 This folder contains the benchmark datasets used in our experiments:
 
@@ -13,22 +13,22 @@ This folder contains the benchmark datasets used in our experiments:
 
 Each dataset is formatted for compatibility with the evaluation scripts and prompt templates provided in this repository.
 
-### `eval/`
+### `eval`
 
 This directory includes the main evaluation scripts used to benchmark model performance on the tasks. These scripts are modular and support both default and domain-specific prompting strategies.
 
-### `templates/`
+### `templates`
 
 This folder contains the prompt templates used to guide model behavior:
 
 - **Default Template**: A general-purpose template designed to work across all tasks without task-specific customization.
 - **Domain-Specific Template**: Customized templates tailored to specific domains such as math, code generation, and translation, aiming to improve task-specific performance.
 
-### `prompt/`
+### `prompt`
 
 Contains the actual prompt examples used during experimentation. These are used in conjunction with the templates to construct full input sequences for the models.
 
-### `result/`
+### `result`
 
 This folder includes partial results from selected experiments. The results are organized by task and template type, and include metrics such as accuracy, variance, and token usage.
 
