@@ -1,0 +1,33 @@
+Importing function libraries(like: import math) and output function code only,without main function and code blocks(like ```python) and any explanation at the outset so that I can call your generated functions directly.
+Write a function to convert more than one list to nested dictionary. The beginning of the generated content is as follows:def convert_list_dictionary(l1, l2, l3)
+Code:def convert_list_dictionary(l1, l2, l3):\n     result = [{x: {y: z}} for (x, y, z) in zip(l1, l2, l3)]\n     return result
+<end>
+Importing function libraries(like: import math) and output function code only,without main function and code blocks(like ```python) and any explanation at the outset so that I can call your generated functions directly.
+Write a function to concatenate each element of tuple by the delimiter. The beginning of the generated content is as follows:def concatenate_tuple(test_tup)
+Code:def concatenate_tuple(test_tup):\n    delim = \"-\"\n    res = ''.join([str(ele) + delim for ele in test_tup])\n    res = res[ : len(res) - len(delim)]\n    return (str(res))
+<end>
+Importing function libraries(like: import math) and output function code only,without main function and code blocks(like ```python) and any explanation at the outset so that I can call your generated functions directly.
+Write a python function to check whether the given two integers have opposite sign or not. The beginning of the generated content is as follows:def opposite_Signs(x,y)
+Code:def opposite_Signs(x,y): \n    return ((x ^ y) < 0);
+<end>
+Importing function libraries(like: import math) and output function code only,without main function and code blocks(like ```python) and any explanation at the outset so that I can call your generated functions directly.
+Write a function to reverse each string in a given list of string values. The beginning of the generated content is as follows:def reverse_string_list(stringlist)
+Code:def reverse_string_list(stringlist):\n    result = [x[::-1] for x in stringlist]\n    return result
+<end>
+Importing function libraries(like: import math) and output function code only,without main function and code blocks(like ```python) and any explanation at the outset so that I can call your generated functions directly.
+Write a python function to set the left most unset bit. The beginning of the generated content is as follows:def set_left_most_unset_bit(n)
+Code:def set_left_most_unset_bit(n): \n    if not (n & (n + 1)): \n        return n \n    pos, temp, count = 0, n, 0 \n    while temp: \n        if not (temp & 1): \n            pos = count      \n        count += 1; temp>>=1\n    return (n | (1 << (pos)))
+<end>
+Importing function libraries(like: import math) and output function code only,without main function and code blocks(like ```python) and any explanation at the outset so that I can call your generated functions directly.
+Write a function to find the list with maximum length. The beginning of the generated content is as follows:def max_length_list(input_list)
+Code:def max_length_list(input_list):\n    max_length = max(len(x) for x in input_list )   \n    max_list = max(input_list, key = lambda i: len(i))    \n    return(max_length, max_list)
+<end>
+Importing function libraries(like: import math) and output function code only,without main function and code blocks(like ```python) and any explanation at the outset so that I can call your generated functions directly.
+Write a function to sort a dictionary by value. The beginning of the generated content is as follows:def sort_counter(dict1)
+Code:from collections import Counter\ndef sort_counter(dict1):\n x = Counter(dict1)\n sort_counter=x.most_common()\n return sort_counter
+<end>
+Importing function libraries(like: import math) and output function code only,without main function and code blocks(like ```python) and any explanation at the outset so that I can call your generated functions directly.
+Code:Write a python function to find a pair with highest product from a given array of integers. The beginning of the generated content is as follows:def max_Product(arr)
+def max_Product(arr): \n    arr_len = len(arr) \n    if (arr_len < 2): \n        return (\"No pairs exists\")           \n    x = arr[0]; y = arr[1]      \n    for i in range(0,arr_len): \n        for j in range(i + 1,arr_len): \n            if (arr[i] * arr[j] > x * y): \n                x = arr[i]; y = arr[j] \n    return x,y
+<end>
+Importing function libraries(like: import math) and output function code only,without main function and code blocks(like ```python) and any explanation at the outset so that I can call your generated functions directly.
